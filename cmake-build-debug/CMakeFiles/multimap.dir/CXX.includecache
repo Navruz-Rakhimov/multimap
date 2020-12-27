@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/navruz/CLionProjects/multimap/sources/HashMap.h
+iostream
+-
+list
+-
+vector
+-
+algorithm
+-
+HashNode.h
+C:/Users/navruz/CLionProjects/multimap/sources/HashNode.h
+
+C:/Users/navruz/CLionProjects/multimap/sources/HashNode.h
+iostream
+-
+
+C:/Users/navruz/CLionProjects/multimap/sources/main.cpp
+iostream
+-
+map
+-
+HashMap.h
+C:/Users/navruz/CLionProjects/multimap/sources/HashMap.h
+
